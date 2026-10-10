@@ -1,0 +1,7 @@
+{
+  "等权示例": {"stars": 9, "forks": 9, "fork_rate": 9, "watchers": 9, "issues_closed": 9, "issue_close_rate": 9, "prs_merged_external": 9, "external_contributors": 9, "commits_90d": 9, "releases": 9, "days_since_push": 10},
+  "Claude":  {"stars": 8, "forks": 4, "fork_rate": 6, "watchers": 3, "issues_closed": 9, "issue_close_rate": 10, "prs_merged_external": 16, "external_contributors": 14, "commits_90d": 12, "releases": 8, "days_since_push": 10},
+  "ChatGPT": {"stars": 5, "forks": 5, "fork_rate": 8, "watchers": 3, "issues_closed": 8, "issue_close_rate": 8, "prs_merged_external": 15, "external_contributors": 12, "commits_90d": 10, "releases": 8, "days_since_push": 18},
+  "Gemini":  {"stars": 5, "forks": 5, "fork_rate": 10, "watchers": 0, "issues_closed": 6, "issue_close_rate": 13, "prs_merged_external": 18, "external_contributors": 15, "commits_90d": 12, "releases": 8, "days_since_push": 8},
+  "Grok":    {"stars": 4, "forks": 8, "fork_rate": 10, "watchers": 4, "issues_closed": 12, "issue_close_rate": 10, "prs_merged_external": 16, "external_contributors": 12, "commits_90d": 10, "releases": 8, "days_since_push": 6}
+}

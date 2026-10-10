@@ -1,0 +1,9 @@
+﻿repo,group,language,stars,forks,watchers,issues_open,issues_closed,prs_merged,prs_open,prs_merged_external,contributors_total,external_contributors,commits_90d,releases,age_days,days_since_push,fork_rate,issue_close_rate,stars_per_day,archived,created_at
+alchaincyf/nuwa-skill,target,Python,33955,4518,105,5,49,2,7,2,3,2,7,0,188.4,46.4,0.1331,0.9074,180.2,False,2026-04-05T04:33:04Z
+alchaincyf/huashu-design,target,HTML,24771,2800,100,3,34,2,2,2,2,1,26,1,173.9,17.9,0.113,0.9189,142.4,False,2026-04-19T14:42:06Z
+alchaincyf/zhangxuefeng-skill,target,,10445,2671,40,25,47,0,1,0,1,0,1,0,188.1,46.4,0.2557,0.6528,55.5,False,2026-04-05T11:37:18Z
+alchaincyf/darwin-skill,target,HTML,6253,655,23,5,7,4,0,4,5,4,19,0,180.2,22.0,0.1047,0.5833,34.7,False,2026-04-13T08:57:49Z
+alchaincyf/hermes-agent-orange-book,target,Python,4969,497,20,4,1,0,1,0,1,0,4,0,185.4,48.0,0.1,0.2,26.8,False,2026-04-08T02:49:02Z
+sharkdp/hyperfine,control,Rust,29044,522,109,38,247,541,16,427,121,120,190,30,3191.9,2.7,0.018,0.8667,9.1,False,2018-01-13T15:49:54Z
+dandavison/delta,control,Rust,32471,593,115,315,629,609,150,405,151,150,21,64,2664.9,2.5,0.0183,0.6663,12.2,False,2019-06-24T15:00:13Z
+ajeetdsouza/zoxide,control,Rust,40007,921,81,97,651,275,51,181,106,105,21,38,2410.0,7.0,0.023,0.8703,16.6,False,2020-03-05T13:11:40Z
